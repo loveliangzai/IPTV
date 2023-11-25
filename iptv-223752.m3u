@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV综合
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv01zh
+#EXTINF:-1 ,CCTV经济
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv02jj
+#EXTINF:-1 ,CCTV综艺
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv03zy
+#EXTINF:-1 ,CCTV国际
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04zw
+#EXTINF:-1 ,CCTV欧洲
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04oz
+#EXTINF:-1 ,CCTV美洲
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04mz
+#EXTINF:-1 ,CCTV体育
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv05ty
+#EXTINF:-1 ,CCTV5+
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv05pl
+#EXTINF:-1 ,CCTV电影
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv06dy
+#EXTINF:-1 ,CCTV军事
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv07js
+#EXTINF:-1 ,CCTV电视剧
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv08dsj
+#EXTINF:-1 ,CCTV记录
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv09jl
+#EXTINF:-1 ,CCTV教育
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv10jy
+#EXTINF:-1 ,CCTV戏曲
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv11xq
+#EXTINF:-1 ,CCTV法治
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv12sf
+#EXTINF:-1 ,CCTV新闻
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv13xw
+#EXTINF:-1 ,CCTV少儿
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv14se
+#EXTINF:-1 ,CCTV音乐
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv15yy
+#EXTINF:-1 ,CCTV奥运
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv16ay
+#EXTINF:-1 ,CCTV农业
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv17ny
+#EXTINF:-1 ,CCTV4K
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv4k
+#EXTINF:-1 ,CHC高清电影
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=chcgqdy
+#EXTINF:-1 ,CHC动作电影
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=chcdzdy
+#EXTINF:-1 ,CHC家庭影院
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=chcjtyy
+#EXTINF:-1 ,重庆卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wschongqing
+#EXTINF:-1 ,北京卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsbeijing
+#EXTINF:-1 ,湖南卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wshunan
+#EXTINF:-1 ,江苏卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsjiangsu
+#EXTINF:-1 ,浙江卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wszhejiang
+#EXTINF:-1 ,东方卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsdongfang
+#EXTINF:-1 ,安徽卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsanhui
+#EXTINF:-1 ,广东卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsguangdong
+#EXTINF:-1 ,深圳卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsshenzhen
+#EXTINF:-1 ,辽宁卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsliaoning
+#EXTINF:-1 ,湖北卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wshubei
+#EXTINF:-1 ,黑龙江卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsheilongjiang
+#EXTINF:-1 ,河南卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wshenan
+#EXTINF:-1 ,河北卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wshebei
+#EXTINF:-1 ,东南卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsdongnan
+#EXTINF:-1 ,天津卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wstianjing
+#EXTINF:-1 ,山东卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsshandong
+#EXTINF:-1 ,江西卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsjiangxi
+#EXTINF:-1 ,贵州卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsguizhou
+#EXTINF:-1 ,海南卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wshainan
+#EXTINF:-1 ,四川卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wssichuan
+#EXTINF:-1 ,广西卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsguangxi
+#EXTINF:-1 ,云南卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsyunnan
+#EXTINF:-1 ,吉林卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsjilin
+#EXTINF:-1 ,甘肃卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsgansu
+#EXTINF:-1 ,青海卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsqinghai
+#EXTINF:-1 ,内蒙古卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsneimenggu
+#EXTINF:-1 ,新疆卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsxinjiang
+#EXTINF:-1 ,陕西卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsshanxi
+#EXTINF:-1 ,山西卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsshanxi1
+#EXTINF:-1 ,宁夏卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsningxia
+#EXTINF:-1 ,西藏卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1123&id=wsxizang
