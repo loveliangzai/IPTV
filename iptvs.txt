@@ -1,0 +1,214 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1综合" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV1综合
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226691/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV2财经" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV2财经
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226567/.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV3综艺" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV3综艺
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226632/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4中文国际" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV4中文国际
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226683/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV5体育" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV5体育
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226640/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV6体育赛事" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV6体育赛事
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226641/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV6电影" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV6电影
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226643/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV7国防军事" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV7国防军事
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226687/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV8电视剧" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV8电视剧
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226635/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV9记录" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV9记录
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226571/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV10科教" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV10科教
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226680/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV11戏曲" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV11戏曲
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226684/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV12社会与法" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV","CCTV12社会与法
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226560/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV13新闻" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV13新闻
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226688/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV14少儿" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV14少儿
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226685/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV15音乐" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV15音乐
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226677/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV17农业农村" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="CCTV",CCTV17农业农村
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226642/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="湖北专区",湖北卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226689/.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="湖北经视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="湖北专区",湖北经视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="湖北综合" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="湖北专区",湖北综合
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="湖北专区",湖北垄上
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="公共新闻" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="湖北专区",公共新闻
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226626/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="湖北影视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="湖北专区",湖北影视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="湖北教育" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="湖北专区",湖北教育
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226646/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="湖北生活" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="湖北专区",湖北生活
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",湖南卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/223/3221226117/2.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",东方卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226674/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",江苏卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226682/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",浙江卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226701/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",北京卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226698/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",深圳卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226703/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",广东卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226700/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",河南卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226697/.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",陕西卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226708/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",山东卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226695/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",黑龙江卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226724/.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",安徽卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226696/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",东南卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226692/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",四川卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226252/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",江西卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226702/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",贵州卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226245/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",辽宁卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226718/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",重庆卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226243/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",天津卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226693/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",西藏卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226169/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",吉林卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226574/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",安徽卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226247/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",湖南卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226174/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",四川卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226721/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",江西卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226173/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",贵州卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226166/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",广西卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226570/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",天津卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226164/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",西藏卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226168/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",吉林卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226171/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",云南卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226566/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",河北卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226246/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",陕西卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226726/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="甘肃卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",甘肃卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226748/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",宁夏卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226732/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="环球奇观" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",环球奇观
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226634/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="山东教育" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",山东教育
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226652/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="国学频道" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="各地卫视",国学频道
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226582/.m3u8 
+
+#EXTINF:-1 tvg-id="1" tvg-name="金鹰纪实" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="其他节目",国学频道
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226666/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="金鹰卡通" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="其他节目",金鹰卡通
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226715/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="动漫" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="其他节目",动漫
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226177/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="金鹰纪实" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="其他节目",金鹰纪实
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226705/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="金鹰卡通" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="其他节目",金鹰卡通
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226712/.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="动漫" tvg-logo="https://codeberg.org/loveliangzai/iptv/raw/branch/main/logo/hb.png" group-title="其他节目",动漫
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226657/.m3u8
+
+
+
+
